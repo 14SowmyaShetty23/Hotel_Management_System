@@ -35,7 +35,6 @@ Before running this application, make sure you have the following installed:
 
 ## 🛠 Project Structure
 ```
-<pre>
 HotelWebApp/  
 ├── WebContent/  
 │   ├── index.jsp  
@@ -61,7 +60,6 @@ HotelWebApp/
 │           └── ReportCriteriaServlet.java  
 ├── WEB-INF/  
 │   └── web.xml  
-</pre>
 ```
 
 ## 🗄 Database Setup
