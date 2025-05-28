@@ -34,8 +34,8 @@ Before running this application, make sure you have the following installed:
 - *Web Browser*: Chrome, Firefox, or Edge
 
 ## 🛠 Project Structure
-  ---
 <pre>
+```
 HotelWebApp/  
 ├── WebContent/  
 │   ├── index.jsp  
@@ -61,8 +61,8 @@ HotelWebApp/
 │           └── ReportCriteriaServlet.java  
 ├── WEB-INF/  
 │   └── web.xml  
+```
 </pre>
-  ---
 
 ## 🗄 Database Setup
 
