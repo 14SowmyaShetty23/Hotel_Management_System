@@ -133,14 +133,27 @@ http://localhost:8080/HotelWebApp/
 Add screenshots in the `/screenshots` directory and link here:
 
 Screenshots
-### 🏠Home Page
+###🏠 Home Page
   <img src="https://github.com/14SowmyaShetty23/Hotel_Management_System/blob/main/HotelWebApp1/Demo_Screenshots/Homepage.jpg" alt="Home Page" width="700"/>
   
-- Add Reservation Page  
-- Search Reservation  
-- Delete Reservation  
-- Update Reservation  
-- Display Reservation  
+###➕ Add Reservation Page  
+  <img src="https://github.com/14SowmyaShetty23/Hotel_Management_System/blob/main/HotelWebApp1/Demo_Screenshots/Add1.jpg" alt="Home Page" width="700"/>
+  <img src="https://github.com/14SowmyaShetty23/Hotel_Management_System/blob/main/HotelWebApp1/Demo_Screenshots/Add2.jpg" alt="Home Page" width="700"/>
+
+###🆕 Update Reservation
+  <img src="https://github.com/14SowmyaShetty23/Hotel_Management_System/blob/main/HotelWebApp1/Demo_Screenshots/Update2.jpg" alt="Home Page" width="700"/>
+
+###❌ Delete Reservation
+  <img src="https://github.com/14SowmyaShetty23/Hotel_Management_System/blob/main/HotelWebApp1/Demo_Screenshots/Delete1.jpg" alt="Home Page" width="700"/>
+  <img src="https://github.com/14SowmyaShetty23/Hotel_Management_System/blob/main/HotelWebApp1/Demo_Screenshots/Delete2.jpg" alt="Home Page" width="700"/>
+  <img src="https://github.com/14SowmyaShetty23/Hotel_Management_System/blob/main/HotelWebApp1/Demo_Screenshots/Delete3.jpg" alt="Home Page" width="700">
+
+###🪟 View Reservation  
+  <img src="https://github.com/14SowmyaShetty23/Hotel_Management_System/blob/main/HotelWebApp1/Demo_Screenshots/View.jpg" alt="Home Page" width="700"/>
+
+###📋 Report
+  <img src="https://github.com/14SowmyaShetty23/Hotel_Management_System/blob/main/HotelWebApp1/Demo_Screenshots/Report1.jpg" alt="Home Page" width="700"/>
+  <img src="https://github.com/14SowmyaShetty23/Hotel_Management_System/blob/main/HotelWebApp1/Demo_Screenshots/Report2.jpg" alt="Home Page" width="700"/>
 
 ## 🎯 Usage Application
 
