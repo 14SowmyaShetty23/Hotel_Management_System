@@ -134,7 +134,7 @@ Add screenshots in the `/screenshots` directory and link here:
 
 Screenshots
 ### 🏠Home Page
-  <img src="Demo_Screenshots/Homepage.png" alt="Home Page" width="700"/>
+  <img src="Demo_Screenshots/Homepage.jpg" alt="Home Page" width="700"/>
   
 - Add Reservation Page  
 - Search Reservation  
