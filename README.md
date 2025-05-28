@@ -1,4 +1,4 @@
-# Hotel_Management_System
+no# Hotel_Management_System
 
 *Subject Name*: Advanced Java  
 *Subject Code*: BCS613D  
@@ -134,7 +134,7 @@ Add screenshots in the `/screenshots` directory and link here:
 
 Screenshots
 ### 🏠Home Page
-  <img src="Demo_Screenshots/Homepage.jpg" alt="Home Page" width="700"/>
+  <img src="https://github.com/14SowmyaShetty23/Hotel_Management_System/blob/main/HotelWebApp1/Demo_Screenshots/Homepage.jpg" alt="Home Page" width="700"/>
   
 - Add Reservation Page  
 - Search Reservation  
