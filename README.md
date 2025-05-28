@@ -3,7 +3,7 @@
 *Subject Name*: Advanced Java  
 *Subject Code*: BCS613D  
 *Name*: Sowmya Shetty  
-*USN*: 4AL22CS150  
+*USN*: 4AL22CS160  
 *Sem/Section*: VI/C  
 
 ---
