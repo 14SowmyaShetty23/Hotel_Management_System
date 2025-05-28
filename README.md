@@ -132,7 +132,10 @@ http://localhost:8080/HotelWebApp/
 
 Add screenshots in the `/screenshots` directory and link here:
 
-- Home Page  
+Screenshots
+### 🏠Home Page
+  <img src="Demo_Screenshots/Homepage.png" alt="Home Page" width="700"/>
+  
 - Add Reservation Page  
 - Search Reservation  
 - Delete Reservation  
